@@ -1,7 +1,7 @@
 {
   "name": "dsh-remiel-skin",
   "description": "Remielle Dan (Zenless Zone Zero) skin for the DeepSeek Harness web GUI — a pink-luminous ballroom theme in light and dark.",
-  "version": "0.4.15",
+  "version": "0.4.16",
   "type": "module",
   "main": "lib/index.js",
   "exports": {

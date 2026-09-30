@@ -17,6 +17,9 @@ assets/scenes/c95f6e2599c56d3f9beb22d24dccec0a1046dac2bba7a0dc9c4936945d5d2db8.p
 assets/scenes/d65ae2a9b96e991e9ff15756d412010bbf688360e8d41534b65a64fb513820e7.webp
 assets/scenes/e0084f3508fc22d8f9b26d49f3dcfaa75997fa33b036dcf0fc14ebf40a21d6e3.webp
 assets/scenes/e457336b4c17cff657dd3547ef90b3421923ac5bc226a08773681759512ae23f.png
+# v0.4.16 退役角饰（换 Q版大头后零引用；本地保留备查）
+assets/scenes/f0c3ffe7cc899de26104044240cf965c5db635581a8d97453cab2d29f8449653.png
+assets/scenes/105509a0e51cdb444e26d941db83932148aaf41b5674387792eb62a934d4d456.png
 # 通用噪音
 node_modules/
 *.log
