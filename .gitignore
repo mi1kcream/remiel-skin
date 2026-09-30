@@ -20,6 +20,9 @@ assets/scenes/e457336b4c17cff657dd3547ef90b3421923ac5bc226a08773681759512ae23f.p
 # v0.4.16 退役角饰（换 Q版大头后零引用；本地保留备查）
 assets/scenes/f0c3ffe7cc899de26104044240cf965c5db635581a8d97453cab2d29f8449653.png
 assets/scenes/105509a0e51cdb444e26d941db83932148aaf41b5674387792eb62a934d4d456.png
+# 退役预览截图（README 已换 light2/dark2）
+preview/light.png
+preview/dark.png
 # 通用噪音
 node_modules/
 *.log

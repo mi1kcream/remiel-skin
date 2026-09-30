@@ -151,11 +151,11 @@ dsh plugin --profile web remove dsh-remiel-skin
 
 **明模式 Light**
 
-![明模式实机预览：粉白球厅场景 + 右下立绘 + 对话框左下 Q 版角饰](./preview/light.png)
+![明模式实机预览：粉白球厅场景 + 右下立绘 + 对话框左下 Q版大头角饰](./preview/light2.png)
 
 **暗模式 Dark**
 
-![暗模式实机预览：柔和紫夜场景 + 右下立绘 + 对话框左下 Q 版角饰](./preview/dark.png)
+![暗模式实机预览：柔和紫夜场景 + 右下立绘 + 对话框左下 Q版大头角饰](./preview/dark2.png)
 
 ## ⚠️ 免责声明
 
