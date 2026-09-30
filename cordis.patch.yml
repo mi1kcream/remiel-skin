@@ -1,0 +1,7 @@
+# dsh-remiel-skin bundle patch: registers the Remielle skin in the DSH web plugin roster.
+# The bundle is the official dsh plugin shape — install it with
+# `dsh plugin --profile web add <path-or-git-url>`. Mutual exclusion with other
+# skins is managed by the skin manager (Settings → Skins) via home-layer disabled rows.
+- insert:
+    - id: ui-skin-remiel
+      name: 'dsh-remiel-skin'

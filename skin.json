@@ -1,0 +1,26 @@
+{
+  "id": "remiel",
+  "name": "蕾米埃尔·时隙流明",
+  "nameEn": "Remielle · Aeon Gleam",
+  "author": "remiel-skin",
+  "tagline": "粉发、流明与舞步：把 DSH 界面换成蕾米埃尔的月夜舞会。",
+  "taglineEn": "Pink hair, luminous light and one endless ballroom — the DSH GUI as Remielle's midnight dance.",
+  "tags": [
+    "anime",
+    "zzz",
+    "pink",
+    "luminous",
+    "elegant",
+    "token-theme",
+    "light-dark"
+  ],
+  "accent": "#e2609f",
+  "bodyAttr": "data-dsh-remiel",
+  "dshCompatibility": "0.1.5-rc.3",
+  "package": "dsh-remiel-skin",
+  "wiring": {
+    "id": "ui-skin-remiel",
+    "bundleWired": true
+  },
+  "order": 10
+}

@@ -1,0 +1,12 @@
+# 过程素材：中文原件只存本地；运行时走 /skin-assets 的 sha256 副本
+assets/scenes/泳装*
+assets/scenes/白色*
+assets/scenes/黑色*
+# 未上架孤儿（不在 FILES 白名单，非运行时内容）
+assets/scenes/304a9bf05f89d7c81690d001c4b9d82869c00dee12a6af5be81fec5cf990a8fa.webp
+assets/scenes/f2dd9b9fdec414d11ded5cab204ab11170ab6b1d54a48b8cb37954247ac28487.webp
+# 通用噪音
+node_modules/
+*.log
+.DS_Store
+Thumbs.db

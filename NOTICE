@@ -1,0 +1,63 @@
+NOTICE — Artwork & third-party material
+=======================================
+
+dsh-remiel-skin ("the skin") uses the following official illustrations:
+
+1) Scene backdrops — user-picked pair (v0.3.5), full-viewport backgrounds
+
+   a. Light mode — Wallpaper Alchemy "Remielle Dan 绝区零 4K" (4264x2400)
+      Source : https://www.wallpaperalchemy.com/zh-CN/wallpaper/remielle-dan-zenless-zone-zero-4k-wallpaper-5644
+   b. Dark mode — Wallpaper Alchemy "Remielle Dan 绝区零 4K" (8000x4496)
+      Source : https://www.wallpaperalchemy.com/zh-CN/wallpaper/remielle-dan-zenless-zone-zero-4k-wallpaper-5183
+   Format : WebP (1920px wide), served from assets/scenes/<sha256>.webp
+            via the skin's local route /skin-assets/remiel/
+   Used   : personal, non-commercial fan use only
+
+1b) Scene backdrops — spare set (v0.3.4), kept allowlisted for instant swap
+
+   a. 「蕾米埃尔影画展示Banner02」 (spare light, 2112x1162)
+      Source : https://wiki.biligame.com/zzz/文件:蕾米埃尔影画展示Banner02.png
+   b. 「蕾米埃尔影画展示Banner01」 (spare dark, 2112x1163)
+      Source : https://wiki.biligame.com/zzz/文件:蕾米埃尔影画展示Banner01.png
+   c. 「蕾米埃尔影画展示Banner03」 (spare light-alt, 2108x1166)
+      Source : https://wiki.biligame.com/zzz/文件:蕾米埃尔影画展示Banner03.png
+   Format : WebP (1920px wide), served as above; used   : personal fan use only
+
+2) Costume splashes — two (2), retained as cutout masters (v0.3.4 note:
+   retired from use as scene backdrops — they are character-intro art,
+   not scenery; kept on disk only as the source for item 3)
+
+   a. Costume splash 「影池独舞」
+      Source : https://wiki.biligame.com/zzz/文件:蕾米埃尔-影池独舞-立绘.png
+   b. Costume splash 「月夜密语」
+      Source : https://wiki.biligame.com/zzz/文件:蕾米埃尔-月夜密语-立绘.png
+
+3) Figure cutouts — two (2), the right-edge companion figure
+
+   a. 「影池独舞·泳装」 (light mode) — v0.3.6: 1091x1400, alpha WebP,
+      resized (LANCZOS) from user-provided full art 泳装.png (1580x2028)
+   b. 「月夜密语」 (dark mode) — v0.3.6: 1600x1002 landscape, alpha WebP,
+      resized from user-provided full art 黑色.png (2128x1332)
+   Derive: alpha preserved as provided; served from
+           assets/scenes/<sha256>.webp via /skin-assets/remiel/
+   Used   : personal, non-commercial fan use only
+
+   (v0.3.3–v0.3.5 note: earlier figures were 424x747 / 549x1221
+   background-removed extracts of the costume splashes in item 2;
+   superseded by the user-provided full art above.)
+
+   (v0.3.3 note: the previously embedded base64 character splash has been
+   removed from lib/client.js; all imagery now ships as route-served files.)
+
+Copyright of the illustrations and of "Zenless Zone Zero" (绝区零), Remielle Dan,
+and all related names and trademarks belongs to miHoYo / HoYoverse
+(上海米哈游网络科技股份有限公司 / COGNOSPHERE PTE. LTD.).
+
+This repository is an unofficial fan work. It is not affiliated with,
+endorsed by, or connected to miHoYo / HoYoverse or DeepSeek.
+
+The illustrations may not be redistributed, sold, or used commercially.
+If miHoYo / HoYoverse requests removal of any embedded artwork, it will be
+removed or replaced with an original, non-infringing illustration.
+
+The skin's code (CSS/JS/YAML/JSON) is covered by the MIT License (LICENSE).
