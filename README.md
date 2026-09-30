@@ -148,7 +148,13 @@ dsh plugin --profile web remove dsh-remiel-skin
 
 ## 🖼️ 预览
 
-*（截图占位：安装并重启后补上明/暗模式实机截图——仓库 README 需要真实界面截图哦~）*
+**明模式 Light**
+
+![明模式实机预览：粉白球厅场景 + 右下立绘 + 对话框左下 Q 版角饰](./preview/light.png)
+
+**暗模式 Dark**
+
+![暗模式实机预览：柔和紫夜场景 + 右下立绘 + 对话框左下 Q 版角饰](./preview/dark.png)
 
 ## ⚠️ 免责声明
 
